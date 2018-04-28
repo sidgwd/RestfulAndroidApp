@@ -43,7 +43,7 @@ public class MainActivity extends Activity {
     public static TextView tvNoRecords;
     public static TextView tvHiddenId;
     private static Context context;
-//hello every body
+//hello All
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
